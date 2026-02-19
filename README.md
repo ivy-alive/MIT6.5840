@@ -15,7 +15,7 @@
   - [ ] Lab 3C: persistence
   - [ ] Lab 3D: log compaction
 
-- [ ] Lab 4: KV Faft
+- [ ] Lab 4: KV Raft
   - [ ] Lab 4A: replicated state machine (RSM)
   - [ ] Lab 4B: Key/value service without snapshots
   - [ ] Lab 4C: Key/value service with snapshots
